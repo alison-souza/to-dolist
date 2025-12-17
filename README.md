@@ -29,11 +29,11 @@ O projeto foi construído utilizando as tecnologias fundamentais do Front-End:
 
 ```text
 to-dolist/
-├── icons/          # Ícones da aplicação (favicon)
-├── index.html      # Estrutura principal
-├── style.css       # Design e responsividade
-├── script.js       # Lógica e comportamento
-└── README.md       # Documentação do projeto
+├── icons/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 ```
 
 ---
