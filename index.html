@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="./icons/to-do-list.png" type="image/png" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>📝 To-Do List</h1>
+
+      <div class="input-area">
+        <input type="text" id="taskInput" placeholder="Digite uma tarefa..." />
+        <button id="addTaskBtn">Adicionar</button>
+      </div>
+
+      <div class="filters">
+        <button data-filter="all" class="active">Todas</button>
+        <button data-filter="pending">Pendentes</button>
+        <button data-filter="completed">Concluídas</button>
+        <button id="clearCompletedBtn">Limpar concluídas</button>
+      </div>
+
+      <div class="task-counter" id="taskCounter"></div>
+      <ul id="taskList"></ul>
+    </div>
+
+    <script src="script.js"></script>
+
+    <footer>
+      <p>
+        Desenvolvido por <strong>Alison Souza</strong> •
+        <a href="https://github.com/alison-souza" target="_blank">GitHub</a> |
+        <a href="https://www.linkedin.com/in/alison-souza-dev/" target="_blank"
+          >LinkedIn</a
+        >
+      </p>
+    </footer>
+  </body>
+</html>
