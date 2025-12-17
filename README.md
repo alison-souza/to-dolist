@@ -42,15 +42,15 @@ to-dolist/
 
 1. **Clone este repositório:**
 
-```git clone [https://github.com/alison-souza/to-dolist.git](https://github.com/alison-souza/to-dolist.git)
-
-```
+   ```bash
+   git clone [https://github.com/alison-souza/to-dolist.git](https://github.com/alison-souza/to-dolist.git)
+   ```
 
 2. **Acesse a pasta do projeto:**
 
-```cd to-dolist
-
-```
+   ```bash
+   cd to-dolist
+   ```
 
 3. **Abra o arquivo index.html: Você pode abrir diretamente no seu navegador ou usar a extensão Live Server no VS Code.**
 
