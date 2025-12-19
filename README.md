@@ -43,7 +43,7 @@ to-dolist/
 1. **Clone este repositório:**
 
    ```bash
-   git clone [https://github.com/alison-souza/to-dolist.git](https://github.com/alison-souza/to-dolist.git)
+   git clone https://github.com/alison-souza/to-dolist.git
    ```
 
 2. **Acesse a pasta do projeto:**
